@@ -2,6 +2,8 @@
 
 Bu depo, KNIME Analytics Platform üzerinde **veri işleme, analiz ve makine öğrenmesi** tekniklerini içeren çeşitli çalışma akışlarını barındırmaktadır. Her bir akış, KNIME ile yapılabilecek işlemlere dair örnekler ve en iyi uygulamaları göstermektedir.
 
+![Ekran görüntüsü 2025-05-23 111527](https://github.com/user-attachments/assets/9619642f-644c-4da8-a4c0-7bfc600100e0)
+
 ---
 
 ## İçindekiler 📚
@@ -17,6 +19,8 @@ Bu depo, KNIME Analytics Platform üzerinde **veri işleme, analiz ve makine ö�
 ---
 
 ## Giriş 🔍
+
+![Ekran görüntüsü 2025-05-23 120138](https://github.com/user-attachments/assets/22da3b9f-4ed9-4fbc-b244-bd2c52269fbe)
 
 **KNIME**, açık kaynaklı bir veri analizi, raporlama ve entegrasyon platformudur. Bu depo, temel veri filtrelemeden ileri düzey makine öğrenmesi ve tahmin modellerine kadar çeşitli konuları ele alan örnek akışları içermektedir.
 
@@ -46,6 +50,8 @@ Bu akışları çalıştırmak için aşağıdaki gereksinimlere sahip olmanız 
 ---
 
 ## Çalışma Konuları 🧠
+
+![Ekran görüntüsü 2025-05-23 110907](https://github.com/user-attachments/assets/51a276a4-b5e7-4ef3-b14f-85d67e88f4d1)
 
 Bu depoda yer alan çalışma akışları aşağıdaki konuları kapsamaktadır:
 
@@ -88,6 +94,8 @@ Bu depoda yer alan çalışma akışları aşağıdaki konuları kapsamaktadır:
 
 Katkılarınızı memnuniyetle kabul ediyoruz! Aşağıdaki adımları izleyin:
 
+![anime-spy-x-family](https://github.com/user-attachments/assets/95e034e9-0746-4e07-8647-92a3a8368d19)
+
 1.  Depoyu **fork'layın**.
 2.  Yeni bir dal oluşturun:
     ```bash
@@ -108,3 +116,7 @@ Katkılarınızı memnuniyetle kabul ediyoruz! Aşağıdaki adımları izleyin:
 ## Lisans 📄
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır. Özgürce kullanabilir, düzenleyebilir ve paylaşabilirsiniz.
+
+## Youtube'dan videomu izleyip takip edebilirsiniz. Teşekkürler :)
+
+ (https://youtu.be/_0Ou8IAC_Uk?si=FH7FgmcAjRy1C-CU)
