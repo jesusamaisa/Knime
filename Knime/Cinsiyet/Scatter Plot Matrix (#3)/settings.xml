@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <entry key="generateImage" type="xboolean" value="false"/>
+        <entry key="imageFormat" type="xstring" value="SVG"/>
+        <entry key="width" type="xint" value="800"/>
+        <entry key="height" type="xint" value="600"/>
+    </config>
+    <config key="view">
+        <config key="dimensions">
+            <config key="selected_Internals">
+                <entry key="array-size" type="xint" value="4"/>
+                <entry key="0" type="xstring" value="RowID"/>
+                <entry key="1" type="xstring" value="BOY"/>
+                <entry key="2" type="xstring" value="KİLO"/>
+                <entry key="3" type="xstring" value="CİNSİYET"/>
+            </config>
+            <entry key="mode" type="xstring" value="MANUAL"/>
+            <config key="patternFilter">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="isCaseSensitive" type="xboolean" value="false"/>
+                <entry key="isInverted" type="xboolean" value="false"/>
+            </config>
+            <config key="manualFilter">
+                <config key="manuallySelected">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xstring" value="RowID"/>
+                    <entry key="1" type="xstring" value="BOY"/>
+                    <entry key="2" type="xstring" value="KİLO"/>
+                    <entry key="3" type="xstring" value="CİNSİYET"/>
+                </config>
+                <config key="manuallyDeselected">
+                    <entry key="array-size" type="xint" value="0"/>
+                </config>
+                <entry key="includeUnknownColumns" type="xboolean" value="false"/>
+            </config>
+            <config key="typeFilter">
+                <config key="selectedTypes">
+                    <entry key="array-size" type="xint" value="0"/>
+                </config>
+            </config>
+        </config>
+        <config key="colorColumn">
+            <entry key="selected" type="xstring" value="&lt;none&gt;"/>
+            <config key="compatibleTypes_Internals">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+        </config>
+        <entry key="maxRows" type="xint" value="2500"/>
+        <entry key="title" type="xstring" value="Scatter Plot Matrix"/>
+        <entry key="axisExtentMethod" type="xstring" value="AUTO"/>
+        <entry key="pointSize" type="xint" value="2"/>
+        <entry key="matrixLayout" type="xstring" value="LOWER"/>
+        <entry key="showLegend" type="xboolean" value="true"/>
+        <entry key="allowImageDownload" type="xboolean" value="true"/>
+        <entry key="showTooltip" type="xboolean" value="true"/>
+        <entry key="enableAnimation" type="xboolean" value="true"/>
+        <entry key="selectionMode" type="xstring" value="EDIT"/>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.views.node.scatterplotmatrix.ScatterPlotMatrixNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Scatter Plot Matrix"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Views"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base.views"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.4.2.v202502121104"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Views"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.views.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.4.2.v202502121104"/>
+    <config key="factory_settings"/>
+    <config key="node_creation_config">
+        <config key="Input Table"/>
+        <config key="Output Image"/>
+    </config>
+    <entry key="name" type="xstring" value="Scatter Plot Matrix"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports"/>
+    <config key="internalObjects">
+        <entry key="location" type="xstring" value="internalTables"/>
+        <config key="content">
+            <config key="object_0">
+                <entry key="index" type="xint" value="0"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_0"/>
+            </config>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="9e2573d2-525d-4b56-886f-2e7ef231af80"/>
+    </config>
+</config>
