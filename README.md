@@ -6,19 +6,19 @@ Bu depo, KNIME Analytics Platform üzerinde **veri işleme, analiz ve makine ö�
 
 ## İçindekiler 📚
 
-* [Giriş](#giriş-🔍)
-* [Gereksinimler](#gereksinimler-🛠️)
-* [Başlarken](#başlarken-🚀)
-* [Çalışma Konuları](#çalışma-konuları-🧠)
-* [Kullanım](#kullanım-🧪)
-* [Katkı Sağlama](#katkı-sağlama-🤝)
-* [Lisans](#lisans-📄)
+* [Giriş](#giriş-)
+* [Gereksinimler](#gereksinimler-)
+* [Başlarken](#başlarken-)
+* [Çalışma Konuları](#çalışma-konuları-)
+* [Kullanım](#kullanım-)
+* [Katkı Sağlama](#katkı-sağlama-)
+* [Lisans](#lisans-)
 
 ---
 
 ## Giriş 🔍
 
-**KNIME**, açık kaynaklı bir veri analizi, raporlama ve entegrasyon platformudur. Bu depo, temel veri filtrelemeden ileri düzey makine öğrenmesi ve tahmin modellerine kadar çeşitli konuları ele alan örnek akışları içermektedir.
+KNIME, açık kaynaklı bir veri analizi, raporlama ve entegrasyon platformudur. Bu depo, temel veri filtrelemeden ileri düzey makine öğrenmesi ve tahmin modellerine kadar çeşitli konuları ele alan örnek akışları içermektedir.
 
 ---
 
@@ -35,13 +35,13 @@ Bu akışları çalıştırmak için aşağıdaki gereksinimlere sahip olmanız 
 
 ## Başlarken 🚀
 
-1.  Depoyu klonlayın:
+1. Depoyu klonlayın:
     ```bash
     git clone [https://github.com/jesusamaisa/Knime.git](https://github.com/jesusamaisa/Knime.git)
     ```
-2.  KNIME'ı açın ve `File > Import KNIME Workflow...` seçeneğine tıklayın.
-3.  Klonladığınız dizine gidin ve istediğiniz akış klasörünü seçin.
-4.  Akışı çalıştırmak için kök node'a sağ tıklayıp `Execute` deyin.
+2. KNIME'ı açın ve `File > Import KNIME Workflow...` seçeneğine tıklayın.
+3. Klonladığınız dizine gidin ve istediğiniz akış klasörünü seçin.
+4. Akışı çalıştırmak için kök node'a sağ tıklayıp `Execute` deyin.
 
 ---
 
@@ -88,20 +88,20 @@ Bu depoda yer alan çalışma akışları aşağıdaki konuları kapsamaktadır:
 
 Katkılarınızı memnuniyetle kabul ediyoruz! Aşağıdaki adımları izleyin:
 
-1.  Depoyu **fork'layın**.
-2.  Yeni bir dal oluşturun:
+1. Depoyu **fork'layın**.
+2. Yeni bir dal oluşturun:
     ```bash
     git checkout -b ozellik/yeni-akis
     ```
-3.  Değişikliklerinizi commit'leyin:
+3. Değişikliklerinizi commit'leyin:
     ```bash
     git commit -m "Yeni akış eklendi"
     ```
-4.  Dalları gönderin:
+4. Dalları gönderin:
     ```bash
     git push origin ozellik/yeni-akis
     ```
-5.  Bir Pull Request oluşturun.
+5. Bir Pull Request oluşturun.
 
 ---
 
